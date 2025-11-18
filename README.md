@@ -123,21 +123,21 @@ Conclusion
 
 This lab demonstrated how to configure a Cisco router as a DHCPv4 server for multiple LAN segments. The tasks included securing the router, configuring IPv4 interfaces, building DHCP pools, excluding reserved addresses, and verifying successful address distribution. Through this lab, I strengthened my understanding of:
 
-DHCP pool creation
+- DHCP pool creation
 
-Router interface setup
+- Router interface setup
 
-Basic Cisco security hardening
+- Basic Cisco security hardening
 
-Network connectivity testing
+- Network connectivity testing
 
-Multi-LAN routing and dynamic address assignment
+- Multi-LAN routing and dynamic address assignment
 
 By completing this lab, I achieved a working two-LAN environment where all devices received automatic addressing and were able to communicate end-to-end across the router.
 
 --
 
-[Ciso Netwoking Academy lab](https://www.netacad.com/courses/all-courses)%E3%80%82?courseLang=en-US)
+[Ciso Netwoking Academy lab](https://www.netacad.com/courses/all-courses)
 
 
 
